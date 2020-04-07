@@ -13,3 +13,26 @@
 }
 
 }
+
+@media only screen and (min-width: 768px) {
+
+aside {
+  width: 20.8333333333%;
+}
+
+#mainContainer {
+  width: 79.1666666667%;
+  float: left;
+}
+
+#sectionContainer {
+  width: 100%;
+  float: left;
+}
+
+#articleContainer {
+  width: 100%;
+  float: left;
+}
+
+}
