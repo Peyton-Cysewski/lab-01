@@ -1,0 +1,28 @@
+@media only screen and (max-width: 767px) {
+
+header {
+  height: 75px;
+  width: 100%;
+}
+
+aside {
+  height: 150px;
+  width: 100%;
+}
+
+section {
+  height: 125px;
+  width: 100%;
+}
+
+article {
+  height: 250px;
+  width: 50%;
+}
+
+footer {
+  height: 80px;
+  width: 100%;
+}
+
+}
